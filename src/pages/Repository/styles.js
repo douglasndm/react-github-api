@@ -42,6 +42,12 @@ export const Owner = styled.div`
     }
 `;
 
+export const Select = styled.select`
+    justify-content: center;
+    align-items: center;
+    display: flex;
+`;
+
 export const IssueList = styled.ul`
     padding-top: 30px;
     margin-top: 30px;
